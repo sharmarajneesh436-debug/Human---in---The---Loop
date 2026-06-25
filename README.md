@@ -111,7 +111,7 @@ Licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Sharvatosh Pandey**
+**Rajneesh Sharma**
 
 B.Tech – Computer Science & Engineering
 
